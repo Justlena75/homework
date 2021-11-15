@@ -1,9 +1,11 @@
 <?php 
 print 'How are you?<br>'; //Упражнение №1
 print "I'm fine.<br>";
+?>
 
 
 
+<?php
 $hamburger=4.95;//Упражнение №2
 $milkshake=1.95;
 $coca_cola=0.85;
